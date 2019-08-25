@@ -1,9 +1,9 @@
 {
-  "name": "project",
+  "name": "codebase-frontend",
   "version": "0.1.0",
   "description": "description",
   "main": "index.js",
-  "repository": "git@gitlab.com:team/project.git",
+  "repository": "git@gitlab.com:cassvail/codebase-frontend.git",
   "author": "cassvail <cassiano.vailati@gmail.com>",
   "license": "MIT",
   "scripts": {
